@@ -23,6 +23,7 @@ dependencies = [
     "mkdocs",
     "notebook",
     "numpy",
+    "openml",
     "pandas",
     "pip",
     "pytest",
