@@ -27,6 +27,7 @@ dependencies = [
     "openml",
     "pandas",
     "pip",
+    "plotly",
     "pytest",
     "python-dotenv",
     "ruff",
