@@ -172,6 +172,9 @@ dmypy.json
 # iFrame Figures
 iframe_figures/
 
+# Kaggle Folder
+.kaggle/
+
 # pytype static type analyzer
 .pytype/
 
